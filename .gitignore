@@ -1,0 +1,4 @@
+/bin/
+*.log
+!/apache/*.log
+/dist/**/tmp*
